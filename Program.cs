@@ -5,7 +5,7 @@ namespace Project_Two {
   class Program {
 
     static void Main(string[] args) {
-      Console.WriteLine("Project Two Main Conflict Function");
+      Console.WriteLine("Project Two Main Function");
 
       /* This "code" was added by CatLady201 into the dev branch */
 
